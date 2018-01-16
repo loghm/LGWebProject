@@ -1542,8 +1542,6 @@
 //        };
 //        [self.navigationController pushViewController:notificationVC animated:YES];
     });
-    
-    
 }
 
 #pragma mark - 私有方法

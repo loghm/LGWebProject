@@ -19,6 +19,9 @@
 #define Alipay [NSString stringWithFormat:@"%@app/alipay/", BASE_URL]
 //微信支付
 #define WXpay [NSString stringWithFormat:@"%@app/wxpay/", BASE_URL]
+
+/** 乐播sdk*/
+#define LBTPKEY @"cee0103ee920283874066a525f73d961"
 //友盟AppKey
 #define USHARE_APPKEY @"59c4a631c8957659c2000046"
 //极光推送AppKey
